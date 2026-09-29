@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://alfatihmeridian.com/img/logo.png" alt="ALMER — Alfatih Meridian Group" width="180">
+<div align="center"> <img src="https://alfatihmeridian.com/img/logo.png" alt="ALMER — Alfatih Meridian Group" width="240" style="display: block; margin: 0 auto;"> <br>
 ALMER — ALFATIH MERIDIAN GROUP
 Global Investment Holding
 
